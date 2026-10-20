@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Klawer Hardware Store logo">
+ <rect width="160" height="160" rx="24" fill="#0a0a0a"/>
+ <path d="M20 70 L80 20 L140 70" fill="none" stroke="#ffd21f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M36 66 V132 H124 V66" fill="none" stroke="#fff" stroke-width="8" stroke-linejoin="round"/>
+ <rect x="67" y="75" width="27" height="27" fill="#ffd21f" rx="3"/>
+ <path d="M30 117 L65 82 M52 80 L68 96 M84 120 L120 84 M108 83 L123 98" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+ <circle cx="29" cy="119" r="8" fill="#ffd21f"/><path d="M113 74 l12 12 -6 6 -12 -12z" fill="#ffd21f"/>
+</svg>
